@@ -1,0 +1,111 @@
+***
+*VIDEO GAMES ->
+***
+Uncharted 4: A Thief's End;22.49;Naughty Dog;4.5;12541;Uncharted 4: A Thief's End is a 2016 action-adventure game developed by Naughty Dog and published by Sony Computer Entertainment.;VIDEO_GAMES
+Grand Theft Auto V;24;Rockstar Games;4.7;134566;Grand Theft Auto V is a 2013 action-adventure game developed by Rockstar North and published by Rockstar Games.;VIDEO_GAMES
+Cyberpunk 2077;49.99;CD Projekt;3.4;52105;Cyberpunk 2077 is a 2020 action role-playing video game developed by CD Projekt Red and published by CD Projekt.;VIDEO_GAMES
+Red Dead Redemption 2;39.99;Rockstar Games;4.6;45156;Red Dead Redemption 2 is a 2018 action-adventure game developed and published by Rockstar Games.;VIDEO_GAMES
+Elden Ring;39.99;FromSoftware;4.8;13179;Elden Ring is a 2022 action role-playing game developed by FromSoftware and published by Bandai Namco Entertainment. Directed by Hidetaka Miyazaki with worldbuilding provided by fantasy writer George R. R. Martin;VIDEO_GAMES
+Horizon Forbidden West;39.99;Sony Interactive Entertainment;3.8;1564;Horizon Forbidden West is a 2022 action role-playing game developed by Guerrilla Games and published by Sony Interactive Entertainment.;VIDEO_GAMES
+God of War Ragnarök;60;Santa Monica Studio;4.5;4798;God of War Ragnarök is an action-adventure game developed by Santa Monica Studio and published by Sony Interactive Entertainment.;VIDEO_GAMES
+Gotham Knights;60;Warner Bros. Interactive Entertainment;2.2;456;Gotham Knights is an open-world, action RPG set in the most dynamic and interactive Gotham City yet. In either solo-play or with one other hero, patrol Gotham's five distinct boroughs and drop in on criminal activity wherever you find it.;VIDEO_GAMES
+Spider-Man 2018;49.99;Insomniac;4.4;8897;Spider-Man is a 2018 action-adventure game developed by Insomniac Games and published by Sony Interactive Entertainment. Based on the Marvel Comics character Spider-Man, it tells an original narrative that is inspired by the long-running comic book mythology, while also drawing from various adaptations in other media.;VIDEO_GAMES
+Marvel's Spider-Man: Miles Morales;49.99;Insomniac;4.4;4849;Marvel's Spider-Man: Miles Morales is a 2020 action-adventure game developed by Insomniac Games and published by Sony Interactive Entertainment.;VIDEO_GAMES
+Counter-Strike: Global Offensive;12.99;Valve;4.8;71430;Counter-Strike: Global Offensive is a 2012 multiplayer tactical first-person shooter developed by Valve and Hidden Path Entertainment. It is the fourth game in the Counter-Strike series.;VIDEO_GAMES
+Assassin's Creed Valhalla;26.99;Ubisoft;3.9;3154;Assassin's Creed Valhalla is a 2020 action role-playing video game developed by Ubisoft Montreal and published by Ubisoft. It is the twelfth major installment in the Assassin's Creed series, and the successor to 2018's Assassin's Creed Odyssey.;VIDEO_GAMES
+Tom Clancy's Rainbow Six Siege;39.99;Ubisoft;4.1;48596;Tom Clancy's Rainbow Six Siege is an online tactical shooter video game developed by Ubisoft Montreal and published by Ubisoft.;VIDEO_GAMES
+Minecraft;39.99;Mojang;4.7;219877;Minecraft is a sandbox game developed by Mojang Studios. The game was created by Markus "Notch" Persson in the Java programming language.;VIDEO_GAMES
+Terraria;12.99;Re-Logic;4.6;4687;Terraria is an action-adventure sandbox game developed by Re-Logic. The game was first released for Windows on May 16, 2011, and has since been ported to several other platforms. The game features exploration, crafting, building, painting, and combat with a variety of creatures in a procedurally generated 2D world.;VIDEO_GAMES
+***
+*ELECTRONICS ->
+***
+iPhone 14 Pro Max;1499;Apple;4.8;78944;The iPhone 14 Pro Max display has rounded corners that follow a beautiful curved design, and these corners are within a standard rectangle. When measured as a standard rectangular shape, the screen is 6.69 inches diagonally (actual viewable area is less);ELECTRONICS
+AirPods Max;899;Apple;4.3;9871;Introducing AirPods Max — a perfect balance of exhilarating high-fidelity audio and the effortless magic of AirPods. The ultimate personal listening experience is here.;ELECTRONICS
+iPad Pro M2;1299;Apple;4.4;15478;It includes an A9X processor, 2732 x 2048 resolution Retina display and a four-speaker audio system. Weighing 1.57 pounds and measuring 6.9 mm, the device also features updated Multi-Touch capabilities allowing users to interact with the screen with less latency than previous iPads.;ELECTRONICS
+AirPods Pro;399;Apple;4.7;23165;AirPods Pro have been reengineered for even richer audio experiences. Next-level Active Noise Cancellation and Adaptive Transparency reduce more external noise. Spatial Audio takes immersion to a remarkably personal level. Touch control now lets you adjust volume with a swipe. And a leap in power delivers 6 hours of battery life from a single charge.;ELECTRONICS
+Apple Watch Ultra;799;Apple;4.2;7895;Meet the most rugged and capable Apple Watch ever. With a robust titanium case, precision dual-frequency GPS, up to 36 hours of battery life, the freedom of cellular, and three specialized bands made for athletes and adventurers of all kinds.;ELECTRONICS
+S22 Ultra;999;Samsung;4.7;45879;The Samsung Galaxy S22 Ultra is the headliner of the S22 series. It's the first S series phone to include Samsung's S Pen. Specifications are top-notch including 6.8-inch Dynamic AMOLED display with 120Hz refresh rate, Snapdragon 8 Gen 1 processor, 5000mAh battery, up to 12gigs of RAM, and 1TB of storage.;ELECTRONICS
+Samsung Galaxy Buds Pro;239;Samsung;4.1;8949;Hear the best of your world on Galaxy Buds Pro - pro-grade wireless earbuds enhanced by intelligent active noise canceling and adjustable Ambient sound.;ELECTRONICS
+Samsung Galaxy Watch5 Pro;239;Samsung;4.2;3214;Galaxy Watch5 Pro is the ultimate durable smartwatch with fitness tracking, blood pressure tracking, GPS, and long battery life designed for adventurers.;ELECTRONICS
+PS5;499;Sony;4.4;15612;The PlayStation 5 is a home video game console developed by Sony Interactive Entertainment.The PlayStation 5's main hardware features include a solid-state drive customized for high-speed data streaming to enable significant improvements in storage performance, an AMD GPU capable of 4K resolution display at up to 120 frames per second, hardware-accelerated ray tracing for realistic lighting and reflections.;ELECTRONICS
+Xbox Series X;499;Microsoft;4.5;15689;Introducing Xbox Series X, the fastest, most powerful Xbox ever. Play thousands of titles from four generations of consoles-all games look and play best on Xbox Series X. Experience next-gen speed and performance with the Xbox velocity architecture, powered by a custom SSD and integrated software.;ELECTRONICS
+Nintendo Switch OLED;399;Nintendo;4.1;7254;A narrower bezel makes way for a full-size 7 inch OLED screen. The grass waving in the wind, the enemies rushing into battle against you, the karts zipping along at top speed... Every aspect of gaming gets a vivid visual makeover.;ELECTRONICS
+Steam Deck;699;Valve;4.5;4347;The Steam Deck is a handheld gaming computer developed by Valve Corporation. Released on February 25, 2022, the Steam Deck can be played as a handheld or connected to a monitor;ELECTRONICS
+Bose Smart Soundbar 900;799;Bose;4.5;4654;Experience the Bose Smart Soundbar 900 with Dolby Atmos and bring the immersive feeling of a movie theater into your home.;ELECTRONICS
+Sony Z8H Series Smart 8K TV;4999;Sony;4.1;1321;Our powerful processor brings out the intense depth and detail of this 8K TV, no matter what you're watching. See deeper blacks and brighter lights on a Full Array LED TV screen with local dimming.;ELECTRONICS
+Samsung Neo QLED Class QN900B 8K Smart TV;5999;Samsung;4.1;1564; Escape into the nearly edge-to-edge screen. Virtually no boundaries. No distractions. Experience out-of-this-world detail on a screen made brilliant by Samsung's own Mini LEDs.;ELECTRONICS
+***
+*BOOKS ->
+***
+Harry Potter Box Set: The Complete Collection (Set of 7 Volumes);39.99;J.K. Rowling;4.7;197446;A beautiful boxed set containing all seven Harry Potter novels in paperback. These new editions of the classic and internationally bestselling, multi-award-winning series feature instantly pick-up-able new jackets by Jonny Duddle, with huge child appeal, to bring Harry Potter to the next generation of readers. It's time to PASS THE MAGIC ON;BOOKS
+Percy Jackson: Complete Series (5 Book Slipcase);29.99;Rick Riordan;4.6;74489;The book follows the entire story of Percy, a boy set in modern times who discovers he is a demi-God. Son of Poseidon, he was abandoned by his father because of an oath to not father any more kids. Percy’s journey turns more electrifying when he finds other demi-God kids in a camp.;BOOKS
+STEVE JOBS: THE EXCLUSIVE BIOGRAPHY;9.99;Walter Isaacson;4.4;65478;Steve Jobs conducted over two years - as well as interviews with more than a hundred family members, friends, adversaries, , and colleagues - this is the acclaimed, internationally bestselling biography of the ultimate icon of inventiveness;BOOKS
+Elon Musk: How the Billionaire CEO of SpaceX and Tesla is Shaping our Future;9.99;Ashlee Vance;4.5;51184;South African born Elon Musk is the renowned entrepreneur and innovator behind PayPal, SpaceX, Tesla, and SolarCity. Musk wants to save our planet.;BOOKS
+Rich Dad Poor Dad;9.99;Robert T. Kiyosaki;4.5;13874;Rich Dad Poor Dad that still ranks as the #1 Personal Finance book of all time. And although 25 years have passed since Rich Dad Poor Dad was first published,readers will find that very little in the book itself has changed ― and for good reason.;BOOKS
+Diary of a Wimpy Kid - Box of Books (Books 1 - 13 + DIY book);39.99;Jeff Kinney;4;45789;Books 1-13 in the laugh-out-loud, fully illustrated hilarious Diary of a Wimpy Kid series from #1 international bestselling author Jeff Kinney!;BOOKS
+The World As I See It;4.99;Albert Einstein;4.3;1579;"A man's actions are determined by necessity" best known for his theory of relativity and contributions to theoretical Physics, Albert Einstein was awarded the Nobel Prize in Physics in 1921.;BOOKS
+The Theory Of Everything;9.99;Stephen Hawking;4.3;11789;Seven lectures by the brilliant theoretical physicist have been compiled into this book to try to explain to the common man, the complex problems of mathematics and the question that has been gripped everyone all for centuries, the theory of existence.;BOOKS
+Astrophysics For People In A Hurry;9.99;Neil Degrasse Tyson;4.4;19487;Over a year on the New York Times bestseller list and more than a million copies sold. The essential universe, from our most celebrated and beloved astrophysicist. What is the nature of space and time? How do we fit within the universe?;BOOKS
+A Game of Thrones (Reissue): Book 1 (A Song of Ice and Fire);29.99;George R.R. Martin;4.3;27489;HBO’s hit series A GAME OF THRONES is based on George R R Martin’s internationally bestselling series A SONG OF ICE AND FIRE, the greatest fantasy epic of the modern age. A GAME OF THRONES is the first volume in the series.;BOOKS
+The Alchemist;7.99;Paulo Coelho;4.7;48965;The Alchemist is a novel by Brazilian author Paulo Coelho which was first published in 1988. Originally written in Portuguese, it became a widely translated international bestseller.;BOOKS
+DA VINCI CODE;14.99;Dan Brown;3.9;23489;"Harvard professor Robert Langdon receives an urgent late-night phone call while on business in Paris: the elderly curator of the Louvre has been brutally murdered inside the museum.;BOOKS
+My Inventions;3.99;Nikola Tesla;4.8;3559;One of the world’s most famous inventors and greatest minds, Nikola Tesla findings are the foundation of much of our modern-day technology and are indispensable to our understanding of electricity. Here is his story, in his own words.;BOOKS
+The Secret;19.99;Rhonda Byrne;3.9;45678;The Secret is a 2006 self-help book by Rhonda Byrne, based on the earlier film of the same name. It is based on the belief of the pseudoscientific law of attraction, which claims that thoughts can change a person's life directly.;BOOKS
+Oxford German Dictionary;24.99;Oxford;4.8;233;The Oxford German Dictionary provides authoritative coverage of German and English with over 320,000 words and phrases, and 520,000 translations. Essential grammatical information and language usage notes are provided for both languages.;BOOKS
+***
+*MOVIES ->
+***
+Avengers: Endgame;24.99;Marvel Studios;4.4;184489;Adrift in space with no food or water, Tony Stark sends a message to Pepper Potts as his oxygen supply starts to dwindle. Meanwhile, the remaining Avengers.;MOVIES
+Spider-Man: No Way Home;29.99;Marvel Studios;4.3;124789;With Spider-Man's identity now revealed, our friendly neighborhood web-slinger is unmasked and no longer able to separate his normal life as Peter Parker from the high stakes of being a superhero.;MOVIES
+Iron Man;19.99;Marvel Studios;4.1;89479;A billionaire industrialist and genius inventor, Tony Stark (Robert Downey Jr.), is conducting weapons tests overseas, but terrorists kidnap him to force him to build a devastating weapon.;MOVIES
+Thor: Love and Thunder;29.99;Marvel Studios;3.2;54879;Thor embarks on a journey unlike anything he's ever faced -- a quest for inner peace. However, his retirement gets interrupted by Gorr the God Butcher, a galactic killer who seeks the extinction of the gods.;MOVIES
+Doctor Strange in the Multiverse of Madness;29.99;Marvel Studios;4.3;78989;Doctor Strange teams up with a mysterious teenage girl from his dreams who can travel across multiverses, to battle multiple threats, including other-universe versions of himself, which threaten to wipe out millions across the multiverse.;MOVIES
+The Dark Knight;19.99;Warner Bros. Pictures;4.9;149549;With the help of allies Lt. Jim Gordon (Gary Oldman) and DA Harvey Dent (Aaron Eckhart), Batman (Christian Bale) has been able to keep a tight lid on crime in Gotham City.;MOVIES
+Inception;19.99;Warner Bros. Pictures;4.8;138923;Dom Cobb (Leonardo DiCaprio) is a thief with the rare ability to enter people's dreams and steal their secrets from their subconscious.;MOVIES
+Interstellar;19.99;Paramount Pictures;4.8;119646;In Earth's future, a global crop blight and second Dust Bowl are slowly rendering the planet uninhabitable. Professor Brand (Michael Caine), a brilliant NASA physicist, is working on plans to save mankind by transporting Earth's population to a new home via a wormhole.;MOVIES
+The Martian;19.99;20th Century Studios;4.1;91579;When astronauts blast off from the planet Mars, they leave behind Mark Watney (Matt Damon), presumed dead after a fierce storm.;MOVIES
+Tenet;29.99;20th Century Studios;4.5;48589;A secret agent is given a single word as his weapon and sent to prevent the onset of World War III. He must travel through time and bend the laws of nature in order to be successful in his mission.;MOVIES
+Dunkirk;19.9;Warner Bros. Pictures;4.4;78985;In May 1940, Germany advanced into France, trapping Allied troops on the beaches of Dunkirk. Under air and ground cover from British and French forces, troops were slowly and methodically evacuated from the beach using every serviceable naval and civilian vessel that could be found.;MOVIES
+The Prestige;19.99;Warner Bros. Pictures;4.3;59498;Period thriller set in Edwardian London where two rival magicians, partners until the tragic death of an assistant during a show, feud bitterly after one of them performs the ultimate magic trick - teleportation.;MOVIES
+Memento;12.99;Newmarket Films;4.4;34988;Leonard (Guy Pearce) is tracking down the man who raped and murdered his wife. The difficulty, however, of locating his wife's killer is compounded by the fact that he suffers from a rare, untreatable form of memory loss.;MOVIES
+Morbius;42.69;Sony Pictures;1;3;It's Morbin' Time!!!!!!!!!!!!;MOVIES
+Morbius 2;42.69;Sony Pictures;1;2;It's Morbin' Time Again!!!!!!!!!!!!;MOVIES
+***
+*FOOD ->
+***
+Potato Chips;1.99;Pringles;3.8;159;Unlike other Potato chips, Pringles crisps are made from a mix of Potato, Rice flour, Corn Flour, and Wheat starch. It is light and crispy and comes in a can!;FOOD
+Dark Fantasy Desserts Choco Chunks;0.69;Sunfeast;4.1;25648;Sunfeast Dark Fantasy preserts its all new range - Dark Fantasy Desserts, even more luxurious and indulgent than ever before.;FOOD
+Caribbean Coconut Rum Cake;3.99;TORTUGA;4.5;1419;Whether you’re looking for personalized gourmet gifts for the rum cake lovers in your life or you’re just looking for a delicious gourmet cake, this will sure be a hit!;FOOD
+Goldfish Crackers;19.99;Pepperidge Farm Goldfish Store;5;76898;The tasty flavors of Goldfish crackers are perfect for sharing with family or friends or enjoying on your own;FOOD
+Give Up Vegan Baked Crackers;2.99;Rick Astley Homemade;4.9;71949;Try out Rick Astley's personal crackers today! They will never give you up! And also never let you down...!;FOOD
+Coca Cola Classic;6.99;Coca-Cola;5;59496;Taste the good old original flavour of coke, we all know and definitely love!;FOOD
+Red Bull Energy Drink;2.99;Red Bull;4.2;10596;Red Bull Energy Drink is: Wheat-free, gluten-free, dairy-free, lactose-free, vegetarian;FOOD
+Rice A Roni Heat & Eat Rice;4.99;Rice-A-Roni;4;34842;Great taste in 90 seconds: squeeze the pouch, tear the top, heat on high, and enjoy;FOOD
+PLANTERS Roasted Pecans;3.99;Planters;4;20573;Roasted Pecans deliver a rich taste that satisfies—they're delicious and are great on the go snacks;FOOD
+M&M'S Holiday Milk Chocolate Christmas Candy;4.99;M&M's;5;956;Enjoy a timeless holiday candy treat that's made with real milk chocolate decorated with festive red and green candy shells;FOOD
+SNICKERS Full Size Bulk Milk Chocolate Candy Bars;5.99;Snickers;4.4;3612;These full sized chocolate bars are great for gifts baskets and candy buffets. Don't forget to try Snickers Almond & Snicker Peanut Butter Squares;FOOD
+Extra Gum Peppermint Chewing Gum;8.99;Extra;5;51316;Share sugarfree chewing gum for more sweet moments. Delicious mint makes any moment a little fresher;FOOD
+Javazon Basics Original Saltine Crackers;1.99;Heyday Inc.;5;99478;A great crunchy topping for soups, stews or chowders. Satisfaction Guarantee: We're proud of our products. If you aren't satisfied, we'll refund you for any reason within a year of purchase.;FOOD
+CADBURY CARAMELLO Milk Chocolate and Caramel King Size Candy;7.99;Cadbury;4.4;1797;Bring the smooth, creamy taste of sweet milk chocolate over gooey caramel with you on road trips, snack breaks and lunch hours throughout the day;FOOD
+Lipton Tea Bags;20.88;Lipton;5;2153;Tasty and refreshing Lipton Iced Cold Brew Black Tea is the perfect addition to any meal.;FOOD
+***
+*Wearables ->
+***
+Javazon Essentials Full-Zip Polar Fleece Vest;69.99;HeyDay Inc.;5;84789;Soft, warm and fuzzy mid-weight polar fleece fabric. No polar bears were harmed in making.;WEARABLES
+Javazon Essentials Fleece Sweatpant;55.99;HeyDay Inc.;5;71899;Everyday made better: we listen to customer feedback and fine-tune every detail to ensure quality, fit, and comfort.;WEARABLES
+Javazon Essentials Hooded Fleece Sweatshirt;22.5;HeyDay Inc.;5;18978;Soft, warm, and oh-so-comfortable midweight brushed back fleece;WEARABLES
+Moss Rain Coat;110;Helly-Hansen;4.4;404;The Rain Coat is a 100% waterproof jacket with a mid-length design.;WEARABLES
+Fake Supreme T-Shirt;0.99;Colgate;5;128;Wanna impress your friends and brag that you have a lot of money even though you are near the poverty line? Well, we, at Colgate have got you covered FAM!;WEARABLES
+Supreme T-Shirt;999.99;Supreme;5;17898;Wanna impress your friends and brag that you have a lot of money truly? Well, we, at Supreme have got you covered FAM!;WEARABLES
+Nike Air Force 1;559;Nike;4.9;312;Rock one of the most recognizable sneakers in history with men's Air Force 1 shoes.;WEARABLES
+Adidas Originals Superstar Sneaker;159;Adidas;4.2;14799;Classic sneaker silhouette features world-famous shell toe for style and protection, untouched for over four decades;WEARABLES
+Plush Santa Hat;21.74;AOGU;4.3;696;Best Quality Santa hats! High quality red fuzz and Comfort Liner, soft comfortable fabric to protect your head and hair.his 6-piece Santa hat makes your Christmas special this year!;WEARABLES
+Spider Far from Home Spandex Costume;45.99;CHGCHLCO;4;174;Adult Kids Unisex Lycra Halloween Cosplay Suit;WEARABLES
+Newton Ridge Plus Ii Waterproof Hiking Boot Shoe;215;Columbia;4.3;27476; Columbia Men's Newton Ridge Plus II Waterproof Hiking Boot features our lightweight, durable midsole for long lasting comfort, superior cushioning, and high energy return as well as an advanced traction rubber sole for slip-free movement on rough ground.;WEARABLES
+Ascender Softshell Jacket;58.7;Columbia;4.2;10616;Crafted from 100% polyester that offers comfort stretch, this comfortable softshell makes for versatile wear — from the trail to the office.;WEARABLES
+Wrangler Riggs Workwear Men's Ripstop Carpenter Jean;39;Wrangler;4.8;9844;Great for any woodworker or craftsman, this classic carpenter jean is designed in an authentic carpenter style. Durable materials and tool pocket details keep you protected and efficient in the workplace.;WEARABLES
+Levi's Men's 505 Regular Fit Jeans;79.98;Levi;4.9;109151;99% Cotton, 1% Elastane. Extra room through seat and thigh. Machine Wash.;WEARABLES
+Snaptacles;289;Snapchat;4.1;49779;Snap anytime, anywhere with Snaptacles. Long lasting battery life, lasting for almost 3 hours, so never worry about it draining out at the wrong time!;WEARABLES
+****
+***
+****

@@ -1,0 +1,17 @@
+
+Annotations
+@Autowired - Automatic dependency injection (no constructor required)
+@AllArgsConstructor - Automatic constructor generation with all global variables initialized
+@Service - Used to treat current class as a service provider component with biz logic, i.e. to be tagged with dependency injection enabled.
+@RequestController - Tags the class for containing API logic and request mappings
+@RequestMapping - Tags a method to be called when a specific sub directory is requested
+@RequestParam - Used in creating a REST API
+@Document - Used to explicitly define a collection names in Mongo
+@Data - Auto-generated Getters and Setters
+
+Specialized Classes Used
+Enums - Used to store predefined constants
+Records - Used to store details. All variables defined inside are final. Also known as "data carrier".
+
+
+
