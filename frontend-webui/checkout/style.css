@@ -1,0 +1,66 @@
+body {
+  background: #1c1f2c;
+  color: white;
+}
+h1 {
+  text-align: center;
+  margin: 0 5px 0 0;
+}
+.back-btn {
+  float: right;
+}
+
+.scrollable {
+  overflow: scroll;
+  height: 75vh;
+  border: rgb(0, 0, 0) 2px solid;
+  margin: 20px;
+  background: rgb(54, 65, 110);
+}
+.scrollable::-webkit-scrollbar {
+  display: none;
+}
+
+table {
+  font-size: 16px;
+  width: 100%;
+  text-align: center;
+  background: white;
+}
+
+tr {
+  background: brown;
+  color: white;
+  border-bottom: 3px solid black;
+  height: 50px;
+}
+
+.items {
+  background: rgb(0, 0, 0);
+}
+
+.item-price {
+  color: rgb(4, 255, 4);
+}
+
+.item-quantity,
+.item-name {
+  color: beige;
+}
+
+.remove-btn {
+  float: right;
+  height: 48px;
+  background: yellow;
+}
+
+.checkout-btn {
+  text-align: center;
+  width: calc(100% - 50px);
+  border: #000 2px solid;
+  padding: 5px;
+  margin: 20px;
+  height: 35px;
+  background: rgb(12, 255, 32);
+  color: white;
+}

@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Javazon - Sign Up</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="container">
+      <h1>Sign Up</h1>
+      <form id="signup-form">
+        <input id="first-name" placeholder="First Name" required />
+        <input id="last-name" placeholder="Last Name" required />
+        <input id="email" placeholder="Email" required />
+        <input id="password" placeholder="Password" type="password" required />
+        <input type="date" id="dob" placeholder="D.O.B" required />
+        <select title="gender" id="gender" required>
+          <option value="MALE">Male</option>
+          <option value="FEMALE">Female</option>
+        </select>
+        <input type="submit" id="submit-btn" />
+      </form>
+      <p>
+        Sign up at Javazon today!
+        <a href="/login"><i>Already have an account?</i></a>
+      </p>
+    </div>
+    <script src="script.js"></script>
+  </body>
+</html>

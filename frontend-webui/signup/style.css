@@ -1,0 +1,39 @@
+body {
+  display: flex;
+  justify-content: center;
+  margin-top: 15%;
+  font-family: monospace;
+  background-image: url("./background.jpg");
+}
+.container {
+  background: rgb(255, 0, 0);
+  color: white;
+  width: fit-content;
+
+  border-radius: 25px;
+  border: 2px solid rgb(255, 255, 255);
+  border-bottom: 4px solid rgb(255, 255, 255);
+  border-left: 4px solid rgb(255, 255, 255);
+
+  padding: 25px;
+}
+.container form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.container input,
+.container select {
+  width: 350px;
+  background: #000;
+  color: white;
+  outline: none;
+}
+
+#submit-btn {
+  margin-top: 5px;
+  background: lawngreen;
+}
+a {
+  color: white;
+}

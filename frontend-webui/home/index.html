@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <title>Javazon - Homepage</title>
+  </head>
+  <body>
+    <div class="wholebar">
+      <!-- Navbar -->
+      <div class="navbar">
+        <!-- Navbar logo -->
+        <div class="logo">
+          <h1>
+            <img src="https://heydaytime.net/favicon.ico" alt="logo img" />
+            avazon
+          </h1>
+        </div>
+
+        <!-- Navbar search bar -->
+        <form>
+          <input
+            type="text"
+            placeholder="Add Item To Cart By Product Name"
+            class="search-bar"
+          />
+          <button type="submit" class="search-bar-btn">
+            <i class="fa fa-search">ADD</i>
+          </button>
+        </form>
+
+        <!-- Navbar user account details -->
+        <div class="user">
+          <!-- Welcome username -->
+        </div>
+      </div>
+
+      <!-- Navbar -->
+      <div class="navbar-bottom">
+        <!-- Select by category -->
+        <select title="category" class="ctg">
+          <option value="ALL">All</option>
+          <option value="ELECTRONICS">Electronics</option>
+          <option value="WEARABLES">Wearables</option>
+          <option value="BOOKS">Books</option>
+          <option value="MOVIES">Movies</option>
+          <option value="FOOD">Food</option>
+          <option value="VIDEO_GAMES">Video Games</option>
+        </select>
+
+        <!-- Filter by rating -->
+        <select title="filter" class="fltr">
+          <option value="fb_rat&htl">Filter by Rating: High to Low</option>
+          <option value="fb_rev&htl">Filter by Reviews: High to Low</option>
+          <option value="fb_pr&htl">Filter by Price: High to Low</option>
+          <option value="fb_rat&lth">Filter by Rating: Low to High</option>
+          <option value="fb_rev&lth">Filter by Reviews: Low to High</option>
+          <option value="fb_pr&lth">Filter by Price: Low to High</option>
+        </select>
+
+        <button class="search-btn" type="button">Search🔎</button>
+        <div class="get-cart">
+          <button title="Get Cart" type="button" class="cart">🛒Cart</button>
+        </div>
+      </div>
+    </div>
+    <hr />
+    <div class="product-list">
+      <!-- To Be Filled By JS -->
+    </div>
+
+    <script src="script.js"></script>
+  </body>
+</html>

@@ -1,0 +1,166 @@
+body {
+  background: #1c1f2c;
+  color: white;
+}
+body::-webkit-scrollbar {
+  display: none;
+}
+
+.product {
+  padding: 15px;
+  border: 1px solid #ccc;
+  box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.1);
+  background: rgb(54, 65, 110);
+  margin: 10px;
+}
+
+.product-info {
+  display: flex;
+  align-items: center;
+}
+.product-name {
+  font-weight: bold;
+  margin-right: auto;
+  color: #e63946;
+}
+.product-price {
+  color: #093;
+}
+.product-manufacturer {
+  color: #e63946;
+  padding-left: 1vw;
+  font-style: italic;
+}
+.product-rating {
+  color: #f60;
+}
+.product-description {
+  color: #ffb703;
+}
+
+.add-to-cart {
+  text-align: right;
+}
+.add-to-cart-btn {
+  background-color: rgb(0, 255, 34);
+  color: #fff;
+}
+
+/* Navbar */
+
+/* Navbar container */
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 60px;
+  background-color: #1c1f2c;
+  color: #fff;
+  font-size: 18px;
+}
+
+.logo h1 img {
+  float: left;
+  margin: 0 5px 0 0;
+}
+
+/* Navbar search bar */
+.navbar form {
+  display: flex;
+  align-items: center;
+  width: 50vw;
+}
+
+.navbar input[type="text"] {
+  width: 100%;
+
+  padding: 6px;
+  border: #fff solid 2px;
+  font-size: 16px;
+}
+
+.navbar button {
+  padding: 6px;
+  border: none;
+
+  background-color: rgb(255, 102, 0);
+  border: #fff solid 2px;
+  border-left: #1c1f2c solid 2px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+/* Navbar user account details */
+.navbar .user {
+  display: flex;
+  align-items: center;
+  padding: 20px;
+}
+
+/* navabar bottom */
+
+/* Navbar container */
+.navbar-bottom {
+  background: #1c1f2c;
+  display: flex;
+  overflow-x: auto;
+  white-space: nowrap;
+}
+
+/* Navbar button */
+.navbar-bottom button {
+  /* background-color: transparent; */
+  border: #1c1f2c solid 2px;
+  background: #ffb703;
+  outline: none;
+  cursor: pointer;
+  font-size: 16px;
+  padding: 8px;
+  width: fit-content;
+}
+
+/* Navbar select */
+.navbar-bottom select {
+  font-size: 16px;
+  border: #1c1f2c solid 2px;
+  outline: none;
+  padding: 8px;
+  /* background-color: transparent; */
+}
+
+.get-cart {
+  margin-left: auto;
+}
+
+.get-cart button {
+  background: #335c67;
+  color: white;
+}
+
+.cart-list {
+  background: rgb(255, 255, 255);
+  color: black;
+}
+
+.checkout {
+  width: 75vw;
+  height: 70vh;
+
+  position: absolute;
+  top: 20vh;
+  left: 50%;
+
+  border-radius: 50px;
+
+  margin-left: -37.5vw;
+  background: #000;
+}
+
+.checkout button {
+  position: absolute;
+  top: calc(100% - 50px);
+  height: 50px;
+  width: 100%;
+  background: rgb(60, 255, 0);
+  padding: 15px;
+}
